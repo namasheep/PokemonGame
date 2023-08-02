@@ -1,0 +1,4 @@
+226,62,125,text files/gymStuff/gym1.txt,text files/gymStuff/gym1Text.txt,5
+255,148,171,text files/gymStuff/gym1.txt,text files/gymStuff/gym1Text.txt,6
+125,40,82,text files/gymStuff/gym1.txt,text files/gymStuff/gym1Text.txt,7
+254,147,31,text files/gymStuff/gym1.txt,text files/gymStuff/gym1Text.txt,8

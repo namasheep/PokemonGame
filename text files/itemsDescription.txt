@@ -1,0 +1,4 @@
+The pokeball,when used,during a battle,is used to,catch a,wild pokemon!
+A potion can,heal your,pokemon,for 20 HP
+A super,potion can,heal your,pokemon,for 50 HP
+A max potion,heals your,pokemon to,its max health

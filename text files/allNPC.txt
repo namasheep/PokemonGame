@@ -1,0 +1,16 @@
+false,368,1328,10,4,18,3,-1,-1,-1,-1,-1,-1,-1,-1,images/npcSprites/npc1/npcSprites1.png,images/npcSprites/npc1/npcSprites2.png,images/npcSprites/npc1/npcSprites3.png
+false,1216,1328,15,8,82,9,83,6,-1,-1,-1,-1,-1,-1,images/npcSprites/npc1/npcSprites4.png,images/npcSprites/npc1/npcSprites5.png,images/npcSprites/npc1/npcSprites6.png
+false,960,928,6,10,45,11,36,10,-1,-1,-1,-1,-1,-1,images/npcSprites/npc1/npcSprites7.png,images/npcSprites/npc1/npcSprites8.png,images/npcSprites/npc1/npcSprites9.png
+false,256,752,107,13,110,14,100,12,-1,-1,-1,-1,-1,-1,images/npcSprites/npc1/npcSprites10.png,images/npcSprites/npc1/npcSprites11.png,images/npcSprites/npc1/npcSprites12.png
+false,448,288,113,16,108,15,136,16,135,17,-1,-1,-1,-1,images/npcSprites/npc1/npcSprites13.png,images/npcSprites/npc1/npcSprites14.png,images/npcSprites/npc1/npcSprites15.png
+false,1072,544,145,18,147,19,141,20,123,19,127,19,-1,-1,images/npcSprites/npc1/npcSprites16.png,images/npcSprites/npc1/npcSprites17.png,images/npcSprites/npc1/npcSprites18.png
+false,832,1504,0,5,12,4,-1,-1,-1,-1,-1,-1,-1,-1,images/npcSprites/npc1/npcSprites1.png,images/npcSprites/npc1/npcSprites2.png,images/npcSprites/npc1/npcSprites3.png
+false,1392,1056,20,10,62,9,95,8,-1,-1,-1,-1,-1,-1,images/npcSprites/npc1/npcSprites13.png,images/npcSprites/npc1/npcSprites14.png,images/npcSprites/npc1/npcSprites15.png
+false,160,960,59,12,71,11,85,13,-1,-1,-1,-1,-1,-1,images/npcSprites/npc1/npcSprites16.png,images/npcSprites/npc1/npcSprites17.png,images/npcSprites/npc1/npcSprites18.png
+false,192,160,103,14,121,15,124,14,-1,-1,-1,-1,-1,-1,images/npcSprites/npc1/npcSprites1.png,images/npcSprites/npc1/npcSprites2.png,images/npcSprites/npc1/npcSprites3.png
+false,864,320,55,17,45,16,80,18,73,18,-1,-1,-1,-1,images/npcSprites/npc1/npcSprites4.png,images/npcSprites/npc1/npcSprites5.png,images/npcSprites/npc1/npcSprites6.png
+false,1264,208,126,20,127,21,136,22,131,21,112,23,-1,-1,images/npcSprites/npc1/npcSprites7.png,images/npcSprites/npc1/npcSprites8.png,images/npcSprites/npc1/npcSprites9.png
+true,256,96,135,10,125,11,76,9,65,8,57,10,-1,-1,images/npcSprites/npc1/boss1.png,null,null
+true,256,96,72,16,88,17,90,17,92,16,118,17,-1,-1,images/npcSprites/npc1/boss2.png,null,null
+true,256,96,1,20,10,19,29,21,37,20,69,21,-1,-1,images/npcSprites/npc1/boss3.png,null,null
+true,256,96,148,35,150,34,144,33,145,34,143,35,149,38,images/npcSprites/npc1/boss4.png,null,null
